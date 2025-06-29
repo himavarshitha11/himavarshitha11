@@ -18,19 +18,7 @@ AI &ML,AI tools,and coding innovative solutions that solve real-world problems.T
 
 ## 🏆 Projects
 
-### 🍽 Habibi Foods - Online Food Ordering System
-- Features: Login, Menu Customization, Stripe Payments, Feedback
-- Tech Stack: HTML, CSS, Bootstrap, JavaScript (frontend), Django + SQLite (backend)
-  
-
-### 📰 Tech News
-- Aggregates tech news from multiple sources
-- Tech Stack: HTML, CSS, JavaScript
-  
-
-### 🎮 Game Hub - Snake Game
-- Arrow-key controlled snake game
-- 🔗 
+###
 
 ## 📬 Connect with Me
 
