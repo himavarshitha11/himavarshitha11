@@ -7,7 +7,7 @@ AI &ML,AI tools,and coding innovative solutions that solve real-world problems.T
 
 ## 💡 Skills & Interests
 
-- 💻 *Programming Languages*: Python, C, (HTML, CSS, JavaScript(basic knowledge))
+- 💻 *Programming Languages*: Python, C.
 - 🗃 *Databases*: SQL,DSA
 - 🧠 *AI & ML*:
   - Supervised , Unsupervised Learning,Semi supervised Learning
@@ -18,11 +18,18 @@ AI &ML,AI tools,and coding innovative solutions that solve real-world problems.T
 
 ## 🏆 Projects
 
-###
+## 🛍️ Product Price Drop Alert System for E-commerce
+Track product prices on e-commerce sites and receive email alerts when the price drops to your target value.
+Features include product URL input, price monitoring, user-defined alert threshold, and automated email notifications.
+Built using Python (Flask), BeautifulSoup, Requests, Gmail SMTP, HTML, CSS.
+📧 Email-based notification system with secure app password.
+📸 Screenshots include successful email output, received alert, and web app UI.
+
+🔗 [project link](https://github.com/himavarshitha11/product-price-drop-alert-system-for-ecommerce.git)
 
 ## 📬 Connect with Me
 
-- 📧 Email: yourmail@gmail.com  
+- 📧 Email: himavarshitha096@gmail.com  
 - 💼 LinkedIn: [Your LinkedIn Name](#) 
 - 💻 GitHub: [your-username](https://github.com/your-username)
 
